@@ -1,0 +1,20 @@
+.brand-image{
+    width: 250px;
+    height: 51px;
+}
+
+.header{
+    margin-top: 100px;
+}
+
+
+.card{
+    margin: 10px 0;
+    transition: .8s;
+}
+
+.card:hover{
+    box-shadow: 10px 20px 15px 5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 20px 15px 5px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 20px 15px 5px rgba(0,0,0,0.75);
+}
